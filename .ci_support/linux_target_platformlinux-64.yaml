@@ -7,7 +7,7 @@ channel_targets:
 cran_mirror:
 - https://cran.r-project.org
 docker_image:
-- condaforge/linux-anvil
+- condaforge/linux-anvil-comp7
 pin_run_as_build:
   r-base:
     max_pin: x.x.x
