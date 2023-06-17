@@ -1,11 +1,11 @@
-About r-xlconnectjars
-=====================
+About r-xlconnectjars-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-xlconnectjars-feedstock/blob/main/LICENSE.txt)
 
 Home: http://www.mirai-solutions.com https://github.com/miraisolutions/xlconnectjars
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-xlconnectjars-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides external JAR dependencies for the XLConnect package.
 
